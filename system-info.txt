@@ -1,0 +1,57 @@
+Platform: win32
+Architecture: x64
+Hostname: DESKTOP-9HUPHFE
+Release: 10.0.10240
+Uptime: 145234.906s
+
+CPU:
+[
+  {
+    "model": "Intel(R) Core(TM)2 Quad CPU    Q9550  @ 2.83GHz",
+    "speed": 2826,
+    "times": {
+      "user": 8044843,
+      "nice": 0,
+      "sys": 2768359,
+      "idle": 25946984,
+      "irq": 411484
+    }
+  },
+  {
+    "model": "Intel(R) Core(TM)2 Quad CPU    Q9550  @ 2.83GHz",
+    "speed": 2826,
+    "times": {
+      "user": 8358906,
+      "nice": 0,
+      "sys": 1881046,
+      "idle": 26520062,
+      "irq": 71484
+    }
+  },
+  {
+    "model": "Intel(R) Core(TM)2 Quad CPU    Q9550  @ 2.83GHz",
+    "speed": 2826,
+    "times": {
+      "user": 7948156,
+      "nice": 0,
+      "sys": 1509687,
+      "idle": 27302171,
+      "irq": 37375
+    }
+  },
+  {
+    "model": "Intel(R) Core(TM)2 Quad CPU    Q9550  @ 2.83GHz",
+    "speed": 2826,
+    "times": {
+      "user": 8047046,
+      "nice": 0,
+      "sys": 1526203,
+      "idle": 27186750,
+      "irq": 30593
+    }
+  }
+]
+
+Memory:
+Total: 4294168576 bytes
+Free: 514002944 bytes
